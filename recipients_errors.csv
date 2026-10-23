@@ -1,0 +1,4 @@
+name,email,attachment
+Tên mẫu,demo@example.com,attachments/gioi_thieu_du_an.txt
+Sai email,khong-phai-email,
+Thiếu tệp,demo@example.com,attachments/khong_ton_tai.txt

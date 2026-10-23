@@ -1,0 +1,9 @@
+UEH KTX SmartNet – Hệ thống quản lý truy cập và giám sát mạng Ký túc xá
+
+Vấn đề: nghẽn mạng vào giờ cao điểm, khó kiểm soát thiết bị truy cập.
+Giải pháp đề xuất: LAN Client-Server, Star Topology, DHCP, DNS,
+Captive Portal, giám sát thiết bị và chia sẻ tệp nội bộ.
+Landing Page: http://nhom1-smartnet.infinityfreeapp.com
+
+Dashboard và sơ đồ trên Landing Page phục vụ minh họa.
+Các dịch vụ mạng thực tế cần được triển khai và kiểm chứng riêng.
